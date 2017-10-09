@@ -1,2 +1,2 @@
 # learning
-Repository of azure and python learning exercises I'm going though
+I'm currently working through the Mega Python course on Udemy.  This is where I'm keeping my learning files.
